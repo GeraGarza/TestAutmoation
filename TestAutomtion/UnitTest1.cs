@@ -9,6 +9,8 @@ namespace TestAutomtion
         [TestMethod]
         public void TestMethod1()
         {
+            Console.WriteLine("Ok");
+            Console.WriteLine("d");
         }
     }
 }
